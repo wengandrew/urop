@@ -1,6 +1,6 @@
-# Battery Data Analysis Project
+# Battery Data Analysis 
 
-Fall 2021
+Fall 2021, Fall 2022
 
 University of Michigan
 
